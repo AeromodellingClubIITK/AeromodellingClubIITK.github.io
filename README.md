@@ -1,1 +1,1 @@
-# aeroclubiitk.github.io
+# aeromodellingclubiitk.github.io
